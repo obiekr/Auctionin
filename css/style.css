@@ -1,0 +1,67 @@
+.content__item .card:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 8px 6px -6px black;
+}
+
+/* All navbar */
+.menu{
+    margin-right: 100px;
+}
+
+.balance{
+    margin: auto;
+    margin-right: 100px;
+}
+
+
+
+/* Sales.php */
+#form {
+    background-color: #EEF7F1;
+}
+
+#Duration {
+    height: 38px;
+    border: 1px solid #CED4D9;
+    border-radius: 3px;
+}
+
+
+input:hover {
+    border-color: rgb(106, 161, 143);
+}
+
+
+.price {
+    font-size: 60px;
+    margin-left: 5px;
+    bottom: 15px;
+    position: relative;
+  }
+ 
+  .card-details {
+    background: rgb(171, 195, 175);
+    /* color: rgb(225, 223, 233); */
+    margin: 10px 30px;
+    padding: 10px;
+    /* border-bottom-left-radius: 80px; */
+  }
+    
+  .card-details p {
+    font-size: 15px;
+  }
+    
+  .card-details label {
+    font-size: 15px;
+    line-height: 35px;
+  }
+    
+  .submit-now-btn {
+    cursor: pointer;
+    color: #fff;
+    height: 30px;
+    width: 240px;
+    border: none;
+    margin: 5px 30px;
+    background-color: rgb(71, 177, 61);
+  }

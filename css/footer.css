@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container .row .footer__item{
+    padding: 20px 5px;
+
+}
+.footer__item h2{
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.footer__item ul{
+    list-style-type: none;
+    padding: 0;
+    padding-top: 15px;
+}.footer__item ul li{
+    padding-bottom: 10px;
+}
+.footer__item a{
+    text-decoration: none;
+    color: black;
+}
+.footer__item a:hover{
+    color: #146d44;
+}
+.footer__item p{
+    padding-top: 15px;
+    margin: 0;
+    text-align: justify;
+}
+.footer__item span{
+    text-decoration:underline;
+}
